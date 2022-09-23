@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fadesa199/marveltest/static/css/main.16186edf.chunk.css",
-    "main.js": "/fadesa199/marveltest/static/js/main.54e97880.chunk.js",
-    "main.js.map": "/fadesa199/marveltest/static/js/main.54e97880.chunk.js.map",
-    "runtime-main.js": "/fadesa199/marveltest/static/js/runtime-main.cc04c524.js",
-    "runtime-main.js.map": "/fadesa199/marveltest/static/js/runtime-main.cc04c524.js.map",
-    "static/js/2.5e8bb286.chunk.js": "/fadesa199/marveltest/static/js/2.5e8bb286.chunk.js",
-    "static/js/2.5e8bb286.chunk.js.map": "/fadesa199/marveltest/static/js/2.5e8bb286.chunk.js.map",
-    "index.html": "/fadesa199/marveltest/index.html",
-    "static/css/main.16186edf.chunk.css.map": "/fadesa199/marveltest/static/css/main.16186edf.chunk.css.map",
-    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/fadesa199/marveltest/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
-    "static/media/error.42292aa1.gif": "/fadesa199/marveltest/static/media/error.42292aa1.gif",
-    "static/media/mjolnir.61f31e18.png": "/fadesa199/marveltest/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/fadesa199/marveltest/static/media/vision.067d4ae1.png"
+    "main.css": "/marveltest/static/css/main.16186edf.chunk.css",
+    "main.js": "/marveltest/static/js/main.54e97880.chunk.js",
+    "main.js.map": "/marveltest/static/js/main.54e97880.chunk.js.map",
+    "runtime-main.js": "/marveltest/static/js/runtime-main.b181756b.js",
+    "runtime-main.js.map": "/marveltest/static/js/runtime-main.b181756b.js.map",
+    "static/js/2.5e8bb286.chunk.js": "/marveltest/static/js/2.5e8bb286.chunk.js",
+    "static/js/2.5e8bb286.chunk.js.map": "/marveltest/static/js/2.5e8bb286.chunk.js.map",
+    "index.html": "/marveltest/index.html",
+    "static/css/main.16186edf.chunk.css.map": "/marveltest/static/css/main.16186edf.chunk.css.map",
+    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/marveltest/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/marveltest/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/marveltest/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marveltest/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc04c524.js",
+    "static/js/runtime-main.b181756b.js",
     "static/js/2.5e8bb286.chunk.js",
     "static/css/main.16186edf.chunk.css",
     "static/js/main.54e97880.chunk.js"
