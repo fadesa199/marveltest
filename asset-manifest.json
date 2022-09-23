@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%20//fadesa199.github.io/static/css/main.16186edf.chunk.css",
+    "main.js": "/%20//fadesa199.github.io/static/js/main.54e97880.chunk.js",
+    "main.js.map": "/%20//fadesa199.github.io/static/js/main.54e97880.chunk.js.map",
+    "runtime-main.js": "/%20//fadesa199.github.io/static/js/runtime-main.cd537452.js",
+    "runtime-main.js.map": "/%20//fadesa199.github.io/static/js/runtime-main.cd537452.js.map",
+    "static/js/2.5e8bb286.chunk.js": "/%20//fadesa199.github.io/static/js/2.5e8bb286.chunk.js",
+    "static/js/2.5e8bb286.chunk.js.map": "/%20//fadesa199.github.io/static/js/2.5e8bb286.chunk.js.map",
+    "index.html": "/%20//fadesa199.github.io/index.html",
+    "static/css/main.16186edf.chunk.css.map": "/%20//fadesa199.github.io/static/css/main.16186edf.chunk.css.map",
+    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/%20//fadesa199.github.io/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/%20//fadesa199.github.io/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/%20//fadesa199.github.io/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/%20//fadesa199.github.io/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd537452.js",
+    "static/js/2.5e8bb286.chunk.js",
+    "static/css/main.16186edf.chunk.css",
+    "static/js/main.54e97880.chunk.js"
+  ]
+}
